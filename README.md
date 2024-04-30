@@ -41,7 +41,7 @@
   * A Power BI dashboard with multiple pages was built for analyzing and visualizing property data.
   * The Data Model from the Data Warehouse was imported into Power BI and all tables were connected on the correct columns. 
 
-    <img width="533" alt="image" src="![image](https://github.com/AnkitabenPatel/AUS_Property-Analysis/assets/165023567/a756c5c3-a7a6-44db-850a-040d9e662e6e)">
+    <img width="533" alt="image" src="(https://github.com/AnkitabenPatel/AUS_Property-Analysis/assets/165023567/a756c5c3-a7a6-44db-850a-040d9e662e6e)">
   * Multiple pages in Power BI were created to analyze house values, rental rates, schools, transport, and crime incidents using various visualizations.
   * A Summary page was designed to consolidate key insights from individual pages and implemented drill-through functionality for detailed analysis.
 
